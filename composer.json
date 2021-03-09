@@ -10,7 +10,7 @@
     ],
     "homepage": "https://github.com/deatil/larke-pclzip",
     "type": "library",
-    "license": "GNU/LGPL",
+    "license": "LGPL",
     "authors": [
         {
             "name": "deatil",
